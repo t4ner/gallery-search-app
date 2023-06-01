@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+}
+.searchDiv {
+  border: 1px solid green;
+  padding: 10px;
+  border-radius: 5px;
+}
+.searchDiv form {
+  display: flex;
+  flex-direction: column;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+.imageList {
+  columns: 250px 5;
+  column-gap: 10px;
+}
