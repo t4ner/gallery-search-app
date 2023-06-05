@@ -14,6 +14,3 @@ You can view the site here
 - Responsive Design
 - Deploy the App Live on Vercel
 
-## Author
-
-Taner Dökmetaş
